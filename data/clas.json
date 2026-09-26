@@ -1,0 +1,578 @@
+{
+  "folders": [],
+  "items": [
+    {
+      "name": "Ventrue",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/f/fa/Ventrue_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Dominação, Fortitude, Presença</strong></p><p>O Clã Ventrue há muito tempo lidera a Camarilla, ocupando mais posições de poder do que qualquer outro clã, e reluta em abrir mão disso. Mesmo após perderem seu representante mais proeminente para um assassinato Brujah, os Ventrue continuam sustentando que estão destinados a governar todos os Membros, não importa os sacrifícios envolvidos. Os Ventrue acreditam na força da tradição e da linhagem. O Abraço é um de seus rituais mais importantes, e a escolha da cria afeta a maneira como os outros membros do clã tratam o senhor. Os Ventrue buscam Abraçar grandes realizadores, mortais política ou financeiramente poderosos, ou aqueles com um talento que os destaque das massas. Nestas noites, os Ventrue são cautelosos: os sem talento ficam pelo caminho, enquanto os melhores se misturam à humanidade como banqueiros, diretores ocultos, magnatas reclusos e chefes de gabinete. Eles são o establishment: definem e mantêm as regras da Máscara e da Camarilla.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Paladar Refinado (Rarefied Tastes):</strong> Os Ventrue possuem um paladar extremamente seletivo. Quando um Ventrue bebe sangue de qualquer mortal fora de sua preferência específica, um profundo esforço de vontade é necessário ou o sangue ingerido volta como vômito escarlate. Com um teste de Determinação + Percepção (Dificuldade 4 ou mais), seu personagem pode sentir se um mortal possui o sangue exigido. Se quiser se alimentar de qualquer vítima fora de sua preferência, deve gastar pontos de Força de Vontade iguais à Gravidade da Perdição (Bane Severity).</p><p><em>[Vampiro: A Máscara, p. 102]</em></p><hr><p><strong>Hierarquia (Variante — Guia do Jogador):</strong> Um vampiro Ventrue sofre uma penalidade em suas paradas de dados de Disciplina igual à sua Gravidade da Perdição ao tentar usar seus poderes em um vampiro de geração inferior (mais antiga). Também deve gastar Força de Vontade igual à Gravidade da Perdição se desejar atacar diretamente um vampiro de geração mais antiga.</p><p><em>[Guia do Jogador, p. 59]</em></p><hr><p><strong>Noblesse Oblige (Variante — Manual):</strong> Quando um Aliado, Contato ou Lacaio sofre ao menos um nível de dano Agravado, o Ventrue sofre dano Superficial de Força de Vontade igual à sua Gravidade da Perdição (uma vez por turno). Da mesma forma, se não puder cumprir os termos de uma Dívida (Boon), recebe a mesma quantidade de dano Superficial de Força de Vontade.</p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "102"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {
+        "vtm5e": {
+          "dataItemId": "clan-ventrue"
+        },
+        "wod5e": {
+          "dataItemId": "clan-ventrue"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154507747,
+        "modifiedTime": 1780948434489,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "4OpxievGIWW46b5X",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Caitiff",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/9/9e/Caitiff_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Quaisquer três (sem bônus de clã no custo de XP)</strong></p><p>Os Desgarrados e Sem-Clã. Vampiros cujo Sangue não manifestou as características nem a maldição do clã de seu senhor. Desprezados pela sociedade tradicional da Camarilla como párias e presságios da Gehenna, mas livres das correntes de uma linhagem.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Pária do Sangue (Outcast):</strong> Caitiff começam com o Defeito Suspeito (1 ponto) em relação à sociedade vampírica tradicional, e aumentar qualquer Disciplina custa 6 × o novo nível em pontos de experiência (em vez de 5 × para disciplinas de clã).</p><p><em>[Vampiro: A Máscara, p. 105]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade",
+          "page": "107"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154498637,
+        "modifiedTime": 1780946047686,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "FfGiuaJF34uFffXb",
+      "sort": 1400000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Sangue-Ralo",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/1/1b/Thinblood_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Alquimia de Sangue-Ralo (e afinidades temporárias via Ressonância)</strong></p><p>Crias de 14ª, 15ª e 16ª geração, situadas no limiar entre a vida mortal e a maldição vampírica. Seu vitae é fraco demais para sustentar Disciplinas permanentes sem Alquimia ou Ressonância intensa, mas também os livra de muitas das fraquezas letais dos Membros antigos.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Sangue Fraco:</strong> Os Sangue-Ralo não possuem uma Perdição de Clã fixa nem sofrem Frenesi automático como vampiros plenos (a menos que possuam o Defeito Temperamento Bestial). Sua capacidade e limitações são definidas pelos seus Méritos e Defeitos de Sangue-Ralo.</p><p><em>[Vampiro: A Máscara, p. 111]</em></p>"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154505098,
+        "modifiedTime": 1780947879180,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "MdYUGepJ9vSiNEFA",
+      "sort": 400000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Brujah",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/8/87/Brujah_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Celeridade, Potência, Presença</strong></p><p>Outrora reis-filósofos da antiguidade, os Brujah hoje são os rebeldes, ativistas, insurgentes e guerreiros de rua do Mundo das Trevas. Movidos por paixões ardentes e ideais ferozes, eles lideraram a revolta contra a hegemonia da Camarilla e formam a espinha dorsal do Movimento Anarquista. Nas noites modernas, os Brujah canalizam a fúria contestatória em comícios, protestos de rua e nas barricadas do submundo contra a tirania dos anciões.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Sangue Violento (Violent Temper):</strong> O Sangue dos Brujah ferve com paixão incontrolável. Subtraia dados iguais à Gravidade da Perdição do Brujah de qualquer rolagem feita para resistir ao Frenesi de Fúria. Isso não pode reduzir a parada de dados abaixo de um dado.</p><p><em>[Vampiro: A Máscara, p. 67]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "67"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154498078,
+        "modifiedTime": 1780945989323,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "PB0lQPBgcHbLFuEE",
+      "sort": 1300000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "O Ministério",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/f/f6/Ministry_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Ofuscação, Presença, Metamorfose</strong></p><p>Herdeiros dos Seguidores de Set, os Ministros são tentadores, libertadores espirituais e líderes de cultos subversivos. Eles acreditam que a libertação vem através da transgressão de tabus e correntes morais.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Aborrecimento pela Luz (Abhorrence of Light):</strong> O Sangue do Ministério recua diante da luz pura. Expostos à iluminação brilhante (holofotes, luz solar indireta intensa, flashes), sofrem uma penalidade em todas as paradas de dados igual à sua Gravidade da Perdição. Além disso, adicionam sua Gravidade da Perdição ao dano sofrido pela luz solar direta.</p><p><em>[Anarquistas / Guia do Jogador]</em></p>",
+        "source": {
+          "book": "Anarch, Players Guide, Handbook",
+          "page": "184"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154504247,
+        "modifiedTime": 1780947019868,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "Tf8Ktj7QxExbWKXa",
+      "sort": 300000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Hecata",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/e/ee/Hecata_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Auspícios, Fortitude, Oblívio</strong></p><p>O Clã da Morte. Reunidos na Reunião de Família entre Giovanni, Cappadocius/Harbingers of Skulls, Samedi, Lamia e Nagaraja, os Hecata operam como necromantes, banqueiros do submundo e senhores dos mortos. Controlando empresas de fachada, casas funerárias e redes financeiras discretas, os Hecata mantêm sua independência em relação à Camarilla e aos Anarquistas, guiados apenas pelos interesses mórbidos de sua vasta família.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Beijo Doloroso (Painful Kiss):</strong> As presas do Hecata não trazem o êxtase do Beijo; em vez disso, sua mordida causa uma dor excruciante e dilacerante. Mortais não contidos resistem violentamente à alimentação, obrigando o Hecata a fazer um teste de Força + Briga ou causar morte/trauma severo ao vaso.</p><p><em>[Cultos dos Deuses de Sangue / Guia do Jogador]</em></p>",
+        "source": {
+          "book": "Cults of the Blood Gods, Players Guide, Handbook",
+          "page": "203"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154500118,
+        "modifiedTime": 1780946352607,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "d6Phs9CDFJE2TwTE",
+      "sort": 1200000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Banu Haqim",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/a/a4/Banu_Haqim_Symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Feitiçaria de Sangue, Celeridade, Ofuscação</strong></p><p>Os Juízes, Assassinos e Legisladores do Sangue. Guiados pelo código de Haqim, julgam tanto mortais quanto outros Membros culpados de abusar de seu poder, tendo recentemente se aliado à Camarilla após o Cisma com os fanáticos de Ur-Shulgi.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Sede de Sangue (Blood Addiction):</strong> Quando um Banu Haqim prova a vitae de outro vampiro, é tomado por uma fome insaciável pelo sangue de outros Membros. Deve fazer um teste de Frenesi de Fome com dificuldade igual a 2 + Gravidade da Perdição ou tentar diablerizar/drenar a fonte.</p><p><em>[Camarilla / Guia do Jogador]</em></p>",
+        "source": {
+          "book": "Camarilla, Players Guide, Handbook",
+          "page": "167"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154497566,
+        "modifiedTime": 1780945718014,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "goJM707x8izIKoVV",
+      "sort": 1100000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Lasombra",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/0/0b/Lasombra_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Dominação, Oblívio, Potência</strong></p><p>Os Magistrados e Guardiões do Abismo. Antigos pilares do Sabá que negociaram sua entrada pragmática na Camarilla moderna, os Lasombra valorizam a excelência implacável, o darwinismo social, o controle sobre instituições religiosas e o domínio sobre as sombras vivas do Oblívio.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Imagem Distorcida (Distorted Image):</strong> Os reflexos e gravações de um Lasombra piscam, distorcem ou desaparecem completamente. A tecnologia moderna baseada em toque capacitivo, câmeras e microfones falha ou apresenta ruído abissal ao ser usada por eles (penalidade igual à Gravidade da Perdição), e mortais atentos percebem facilmente que há algo profundamente errado com eles.</p><p><em>[Guia do Jogador / Chicago by Night]</em></p>",
+        "source": {
+          "book": "Chicago by Night, Players Guide, Handbook",
+          "page": "292"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154501308,
+        "modifiedTime": 1780946551042,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "h3HK2pnhD7DV6CDW",
+      "sort": 700000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Gangrel",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/e/e4/Gangrel_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Animalismo, Fortitude, Metamorfose</strong></p><p>Nômades, sobreviventes e predadores alfa, os Gangrel estão mais próximos da Besta interior do que quase qualquer outro clã. Eles desprezam a política engessada dos salões Elysium, preferindo as fronteiras selvagens, parques abandonados, rodovias e zonas alagadas ou periféricas das metrópoles.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Traços Bestiais (Animalistic Features):</strong> Em Frenesi, o Gangrel adquire uma ou mais características animais (pelos, garras, olhos ferais, orelhas pontiagudas, voz gutural). A cada Frenesi, uma característica adicional se manifesta. Essas características duram mais uma noite após o Frenesi para cada ponto de Gravidade da Perdição, reduzindo um Atributo Social ou de Manipulação em 1 por característica ativa.</p><p><em>[Vampiro: A Máscara, p. 73]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "73"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154499195,
+        "modifiedTime": 1780946209273,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "jbRjgUUyysy2MgVT",
+      "sort": 1500000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Tzimisce",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/b/b1/Tzimisce_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Animalismo, Dominação, Metamorfose</strong></p><p>Os Dragões e Demônios do Velho Mundo. Senhores territoriais obcecados por posse, hospitalidade ancestral e pela moldagem da carne e do osso (Vicissitude).</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Aterrado (Grounded):</strong> Cada Tzimisce deve dormir cercado por sua posse mais preciosa (seja a terra natal, seu domínio ancestral, seu tesouro ou seu culto/rebanho). Se dormir longe de sua carga/terra escolhida, sofre dano Superficial de Força de Vontade igual à sua Gravidade da Perdição na noite seguinte.</p><p><em>[Companion / Guia do Jogador]</em></p>",
+        "source": {
+          "book": "Companion, Players Guide, Handbook",
+          "page": "18"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154507098,
+        "modifiedTime": 1780948315107,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "mDiHDArhNaJa5zKx",
+      "sort": 200000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Salubri",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/b/b1/Salubri_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Auspícios, Dominação, Fortitude</strong></p><p>Os Ciclopes e Curandeiros Caçados. Dotados de um terceiro olho místico na testa, os raros Salubri buscam a Golconda e a redenção enquanto fogem da perseguição histórica e da sede que seu sangue desperta em outros vampiros.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Caçados (Hunted):</strong> O sangue de um Salubri é uma iguaria irresistível para outros vampiros (que precisam passar em um teste de Frenesi de Fome se o provarem). Além disso, o terceiro olho na testa do Salubri se abre e chora vitae sempre que ele ativa uma Disciplina.</p><p><em>[Companion / Guia do Jogador]</em></p>",
+        "source": {
+          "book": "Companion, Players Guide, Handbook",
+          "page": "15"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154503577,
+        "modifiedTime": 1780947858305,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "nbODjuv7exyxUkNx",
+      "sort": 100000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Nosferatu",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/6/61/Nosferatu_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Animalismo, Ofuscação, Potência</strong></p><p>Desfigurados pelo Abraço, os Ratos de Esgoto são mestres da informação oculta, redes subterrâneas e espionagem digital ou física. Banidos da vista mortal devido à sua aparência monstruosa, eles conhecem todos os segredos que escorrem pelos bueiros e servidores da cidade.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Repulsividade (Repulsiveness):</strong> Hediondos e vis, todos os Nosferatu contam como tendo o Defeito Repulsivo (-2) e nunca podem melhorar sua classificação no Mérito Aparência. Além disso, qualquer tentativa de se disfarçar como humano não-deformado (incluindo poderes de Ofuscação como Semblante de Máscara) incorre em uma penalidade de dados igual à sua Gravidade da Perdição.</p><p><em>[Vampiro: A Máscara, p. 85]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "85"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154502469,
+        "modifiedTime": 1780946895531,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "oXC8d3RfpFOwoXtY",
+      "sort": 1000000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Ravnos",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/9/9a/Ravnos_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Animalismo, Ofuscação, Presença</strong></p><p>Os Trapaceiros, Ilusionistas e Corredores de Risco. Quase exterminados durante a Semana dos Pesadelos, os poucos Ravnos sobreviventes nunca podem permanecer parados por muito tempo, sob pena de seu próprio sangue incendiá-los por dentro.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Condenado (Doomed):</strong> O fogo solar que incinerou o fundador do clã ainda arde no sangue dos Ravnos se eles permanecerem no mesmo lugar. Se um Ravnos dormir no mesmo local (dentro de 1 milha/1,5 km) mais de uma vez em 7 noites, sofre dano Agravado igual à sua Gravidade da Perdição.</p><p><em>[Companion / Guia do Jogador]</em></p>",
+        "source": {
+          "book": "Companion, Players Guide, Handbook",
+          "page": "9"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154503029,
+        "modifiedTime": 1780947478012,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "oqmIDA375H808Dv1",
+      "sort": 800000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Malkaviano",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/1/1f/Malkavian_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Auspícios, Dominação, Ofuscação</strong></p><p>Tocadas pela Teia da Loucura (Cobweb), as crias de Malkav são oráculos despedaçados, videntes e visionários. Sua percepção atravessa o véu da realidade, revelando verdades ocultas a um custo terrível para sua estabilidade mental.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Perspectiva Fraturada (Fractured Perspective):</strong> Afligido por sua linhagem, todo Malkaviano é marcado por pelo menos um tipo de condição psíquica ou delírio sobrenatural. Quando o Malkaviano sofre uma Falha Bestial ou uma Compulsão, sua maldição vem à tona: sofra uma penalidade igual à sua Gravidade da Perdição em uma categoria de paradas de dados (Física, Social ou Mental — escolhida na criação do personagem) pelo restante da cena.</p><p><em>[Vampiro: A Máscara, p. 79]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "79"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154501939,
+        "modifiedTime": 1780946702751,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "sNk7vZISpk93LJsv",
+      "sort": 900000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Toreador",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/2/28/Toreador_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Auspícios, Celeridade, Presença</strong></p><p>Os Divas, Artistas e Degenerados do Clã da Rosa buscam a centelha da paixão, beleza e emoção estética que a não-vida lhes roubou. Ao lado dos Ventrue, sustentam os salões sociais da Camarilla, encantando mortais e Membros com um olhar ou uma palavra.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Fixação Estética (Aesthetic Fixation):</strong> Os Toreador exemplificam o velho ditado de que a arte está no sangue. Quando seu personagem estiver em um ambiente menos que belo (sujo, decadente, sem estética), ele perde dados em todas as paradas para usar Disciplinas iguais à sua Gravidade da Perdição.</p><p><em>[Vampiro: A Máscara, p. 91]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "91"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {
+        "vtm5e": {
+          "dataItemId": "clan-toreador"
+        },
+        "core": {
+          "sheetClass": ""
+        },
+        "wod5e": {
+          "dataItemId": "clan-toreador"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154505689,
+        "modifiedTime": 1780948011894,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "sa9dYt1oWJZ9PeZi",
+      "sort": 500000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "name": "Tremere",
+      "type": "clan",
+      "img": "https://vtm.paradoxwikis.com/images/e/ef/Tremere_symbol.png",
+      "system": {
+        "description": "<p><strong>Disciplinas: Auspícios, Dominação, Feitiçaria de Sangue</strong></p><p>Outrora uma ordem hermética mortal que usurpou a imortalidade, os Feiticeiros do Clã Tremere tiveram sua Grande Pirâmide estilhaçada pelo ataque da Segunda Inquisição à Capela Principal de Viena. Hoje divididos entre a Casa Tremere, Casa Carna, Casa Ipsissimus e Casa Goratrix, seu domínio sobre a Feitiçaria de Sangue permanece inigualável.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<p><strong>Sangue Deficiente (Deficient Blood):</strong> Após a queda de Viena, o Sangue dos Tremere não é mais capaz de criar Laços de Sangue em outros Membros (embora ainda possam prender mortais e carniçais, precisando de um gole adicional igual à Gravidade da Perdição).</p><p><em>[Vampiro: A Máscara, p. 97]</em></p>",
+        "source": {
+          "book": "Vampire The Masquerade, Players Guide, Handbook",
+          "page": "97"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "wod5e",
+        "systemVersion": "5.3.19",
+        "createdTime": 1761154506555,
+        "modifiedTime": 1780948106861,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "uFg3cSOSJ0c97pQl",
+      "sort": 600000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    }
+  ]
+}

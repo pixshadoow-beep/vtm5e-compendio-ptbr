@@ -1,0 +1,191 @@
+{
+  "folders": [],
+  "items": [
+    {
+      "folder": null,
+      "name": "Sangue Animal",
+      "type": "resonance",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p><strong>Fonte:</strong> Animais urbanos ou selvagens (cães, ratos, aves, cervos, gado, predadores selvagens).</p><p><strong>Disciplinas Associadas:</strong> <em>Animalismo</em> e <em>Metamorfose</em>.</p><p>Embora nutra apenas vampiros de baixa Potência de Sangue (ou aqueles com poderes específicos como Alimentação Animal), o sangue dos animais alimenta diretamente os instintos ferais da Besta.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dyscrasia": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761155228729,
+        "modifiedTime": 1780803979951,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "DfEV5m4tIkIPn3T9",
+      "sort": 600000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "folder": null,
+      "name": "Colérica",
+      "type": "resonance",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p><strong>Humor:</strong> Bílis Amarela — Raiva, violência, paixão ardente, inveja, ambição explosiva e impulsividade.</p><p><strong>Disciplinas Associadas:</strong> <em>Celeridade</em> e <em>Potência</em>.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dyscrasia": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761155229181,
+        "modifiedTime": 1780803979959,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "WVrPnfzWOLdjNBOm",
+      "sort": 500000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "folder": null,
+      "name": "Fleumática",
+      "type": "resonance",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p><strong>Humor:</strong> Fleuma — Calma, apatia, controle frio, paciência analítica, indiferença ou estoicismo.</p><p><strong>Disciplinas Associadas:</strong> <em>Auspícios</em> e <em>Dominação</em>.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dyscrasia": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761155230121,
+        "modifiedTime": 1780803979968,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "aTqHU2LHqw7xlmjf",
+      "sort": 300000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "folder": null,
+      "name": "Sanguínea",
+      "type": "resonance",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p><strong>Humor:</strong> Sangue — Euforia, luxúria, entusiasmo, volubilidade, êxtase artístico e paixão festiva.</p><p><strong>Disciplinas Associadas:</strong> <em>Feitiçaria de Sangue</em> e <em>Presença</em>.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dyscrasia": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761155230553,
+        "modifiedTime": 1780803979976,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "ayq3FtPaNGINJhd6",
+      "sort": 200000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "folder": null,
+      "name": "Melancólica",
+      "type": "resonance",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p><strong>Humor:</strong> Bílis Negra — Tristeza, medo, luto profundo, depressão, intelectualismo sombrio e resiliência silenciosa.</p><p><strong>Disciplinas Associadas:</strong> <em>Fortitude</em> e <em>Ofuscação</em>.</p><p>Comum entre pessoas enlutadas, solitárias, traumatizadas ou imersas em dor emocional e fadiga existencial.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dyscrasia": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761155229717,
+        "modifiedTime": 1780803979983,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "euCaAIkPhjl0tc4Z",
+      "sort": 100000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    },
+    {
+      "folder": null,
+      "name": "Vazia",
+      "type": "resonance",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p><strong>Estado:</strong> Sangue frio, ensacado de hospital, cadáveres recentes ou mortais apáticos sem qualquer carga emocional intensa no momento da alimentação.</p><p><strong>Disciplinas Associadas:</strong> <em>Oblívio</em>.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dyscrasia": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761155228191,
+        "modifiedTime": 1780803979990,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "yCJY3keTjZES11rd",
+      "sort": 400000,
+      "ownership": {
+        "default": 0,
+        "4cM8iyk32CYPBr00": 3
+      }
+    }
+  ]
+}

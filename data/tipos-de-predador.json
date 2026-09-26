@@ -1,0 +1,1075 @@
+{
+  "folders": [],
+  "items": [
+    {
+      "folder": null,
+      "name": "Assassino da Estrada",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você pertence aos vagabundos, turistas e caminhoneiros do mundo — sempre em movimento, nunca em casa. Você sabe como identificar aqueles cujas mortes são desconsideradas como o risco de uma mulher viajando sozinha de carona, ou que simplesmente não farão falta alguma. Ainda assim, você precisa lutar para manter outros vampiros afastados deles, para que a matilha não se enxugue demais. Na vida, você ou era um deles, ou conheceu esses vagabundos enquanto descansavam em sua parada à beira da estrada.</p><p>■ Adicione uma especialidade Sobrevivência (estrada) ou Investigação (canto de vampiro)</p><p>■ Adicione um ponto de Fortitude ou Metamorfose</p><p>■ Ganhe dois pontos adicionais de Rebanho Migratória</p><p>■ Ganhe a Exclusão de Presas com Defeito (locais)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.dexterity"
+          },
+          "MzZcRjaT": {
+            "path": "skills.drive"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979222,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "3pEqGCUWfd0MHotw",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Cutelo",
+      "type": "predatorType",
+      "_id": "4IqaYfUhm75WTOur",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você se alimenta secretamente de sua própria família e amigos mortais (ou de alguém), com os quais ainda mantém vínculos. Os cutelos mais extremos adotam crianças, se casam com um humano e tentam manter uma vida familiar pelo maior tempo possível. Adicione sua família ao Mapa de Relacionamentos. Os cutelos frequentemente fazem grandes esforços para manter a verdade sobre sua condição em segredo da família, mas alguns também mantêm relacionamentos prejudiciais com seus próprios Membros. A Camarilla proíbe ter uma família humana dessa maneira e desaprova os cutelos, considerando-os potenciais violações da Máscara. Membros mais sábios podem massacrar sua família para o seu próprio bem se descobrirem seu segredo e se importarem com o que acontece com você.</p><p>■ Adicionar uma especialidade: Persuasão (Manipulação) ou Subterfúgio (Acobertamentos)</p><p>■ Ganhe um ponto de Dominação ou Animalismo</p><p>■ Adquirir a Defeito do Segredo Sombrio: (•)Machado</p><p>■ Ganhe a Vantagem do Rebanho (••)</p><p></p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "U2MQr9c2": {
+            "path": "attributes.manipulation"
+          },
+          "XYLInqFe": {
+            "path": "skills.subterfuge"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 100000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979256,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Guardiã",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Na vida, você provavelmente foi um operador de câmeras de vigilância ou um vigia noturno. Como um predador morto-vivo, você depende das habilidades desenvolvidas em sua ocupação anterior para se alimentar de intrusos e convidados indesejados. Esses vampiros frequentemente trabalham para empresas privadas e para outros Membros, seja como guardiões de um domínio ou como seguranças pessoais.</p><p>■ Adicionar uma Especialidade: Briga (Mortais Armados) ou Percepção (Visão)</p><p>■ Ganhe um ponto de Auspícios, Fortitude ou Metamorfose</p><p>■ Ganhe um ponto de Mawla, Recursos ou Status</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.stamina"
+          },
+          "MzZcRjaT": {
+            "path": "skills.awareness"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979268,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "75uaOUVtfntJwtUO",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Alçapão",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Como a aranha-de-porta-oculta, você constrói seu ninho e atrai suas presas para ele. Você pode se esconder em um passeio escuro de parque de diversões ou em um banho turco fumegante, assombrar uma casa ou administrar um clube de luta, mas suas vítimas vêm até o seu lugar de poder. Lá, você pode brincar com elas em terror, aprisioná-las e drená-las lentamente, ou apenas beber profundamente e mandá-las embora.</p><p>■ Adicione uma especialidade: Persuasão (Marketing) ou Furtividade (Emboscadas ou Armadilhas)</p><p>■ Ganhe um ponto de Metamorfose ou Ofuscação</p><p>■ Ganhe um ponto do Antecedente Refúgio</p><p>■ Ganhe um ponto em Lacaios (seu cordelheiro, mordomo, etc.) ou Rebanho (visitantes regulares por qualquer motivo), ou um segundo ponto em Refúgio</p><p>■ Adquirir uma Defeito de Refúgio: Assustador (•) ou Assombrado (•)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.charisma"
+          },
+          "MzZcRjaT": {
+            "path": "skills.stealth"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979280,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "9iVAUSlLfv0B8F3Y",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Sanguessuga",
+      "type": "predatorType",
+      "_id": "BCVKeoYAt59ZkFWV",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você bebe de outros vampiros, seja caçando, coagindo ou recebendo Sangue como pagamento - a única maneira realmente moral de se alimentar que você consegue imaginar. Infelizmente, essa prática geralmente é proibida na sociedade Membros. É ou incrivelmente arriscada ou exige uma posição de poder invejável.</p><p>■ Adicione uma especialidade: Briga (Membros) ou Furtividade (contra Membros)</p><p>■ Ganhe um ponto de Celeridade ou Metamorfose</p><p>■ Perder um ponto de Humanidade</p><p>■ Aumentar a Potência de Sangue em um</p><p>■ Adquira a Defeito do Segredo Sombrio: (••) Diablerista, ou a Defeito Rejeitada: (••)</p><p>■ Obtenha a Defeito de Alimentação: (••) Exclusão de Presas (mortais)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire"
+      },
+      "effects": [],
+      "sort": 300000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979292,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Sereia",
+      "type": "predatorType",
+      "_id": "Bagl9LOhtzPV3a2v",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você se alimenta quase exclusivamente durante ou enquanto finge sexo, e confia em suas Disciplinas, habilidades de sedução ou nos apetites insaciáveis dos outros para esconder sua natureza carnívora. Você dominou a arte do caso de uma noite ou se move pela cena do clube sexual como uma estrela negra. Você se considera uma fera sexy, mas em seus momentos mais sombrios, você teme que seja no máximo um amante problemático, no mínimo um estuprador habitual. Um antigo amante que escapou da destruição pode ser seu Marco ou seu perseguidor. (Se sim, adicione-os ao Mapa de Relacionamentos.) Talvez na vida você tenha sido um artista de conquista, produtor de cinema, autor, um glorioso kinkster promíscuo – ou um virgem que pretende recuperar o tempo perdido depois da morte.</p><p>■ Adicionar uma especialidade: Persuasão (Sedução) ou Subterfúgio (Sedução)</p><p>■ Ganhe um ponto de Fortitude ou Presença</p><p>■ Ganhar o Qualidade Aparência: (••) Bonito</p><p>■ Obter a Defeito Inimigo: (•) Um amante rejeitado ou parceiro ciumento</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "ICzAyI5D": {
+            "path": "attributes.charisma"
+          },
+          "v4X96Cc5": {
+            "path": "skills.subterfuge"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 400000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979304,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Extintor",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Alguns Membros têm a sorte - ou infelizmente - de experimentar o sangue que corre pelas veias de lobisomens, magos e mudancistas. Seja por necessidade de proteger um domínio, ou por um vício perigoso, o Neutralizador é um vampiro que se especializou em caçar outras criaturas sobrenaturais.</p><p>■ Adicionar uma Especialidade: Sobrevivência (Armadilhas) ou Ocultismo (Uma criatura sobrenatural à escolha)</p><p>■ Ganhe um ponto de Animalismo, Fortitude ou Potência</p><p>■ Aumentar a Potência de Sangue em um</p><p>■ Obter a Defeito de Alimentação: (••) Exclusão de Presas (mortais)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {}
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979321,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "H5CKFSJ4SPLOCGou",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Osíris",
+      "type": "predatorType",
+      "_id": "IET1GfclEDpIhIkb",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você é uma celebridade entre os mortais ou então dirige um culto, uma igreja ou algo semelhante. Você se alimenta de seus fãs ou adoradores, que o tratam como uma divindade. Você sempre tem acesso fácil a sangue, mas os seguidores causam problemas com as autoridades, a religião organizada e, de fato, com a Camarilla. Na vida, você pode ter sido um DJ, um escritor, um cultista, um pregador ou um organizador de LARP.</p><p>■ Adicionar uma especialidade: Ocultismo (tradição específica) ou Performance (campo específico de entretenimento)</p><p>■ Ganhe um ponto de Feitiçaria de Sangue (apenas Tremere) ou Presença</p><p>■ Passe três pontos entre os históricos Fama e Rebanho</p><p>■ Gaste dois pontos entre os Inimigos e as Falhas Míticas</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "vc1xtvEr": {
+            "path": "attributes.manipulation"
+          },
+          "XN7ER2oQ": {
+            "path": "skills.subterfuge"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 500000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979334,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Peixe-gato",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Identidades falsas em serviços de redes sociais não são exatamente uma novidade, mas alguns Membros levam isso a outro nível. Jovens vampiros que conhecem bem as mídias sociais conseguem criar personas fictícias em aplicativos e sites como Tinder, Craigslist e LinkedIn para atrair suas presas para suas presas.</p><p>■ Adicionar uma Especialidade: Manha (Gíria da Internet) ou Tecnologia (Mídias Sociais)</p><p>■ Ganhe um ponto de Ofuscação ou Presença</p><p>■ Ganhe um ponto de Refúgio</p><p>■ Ganhe um ponto de Máscara</p><p>■ Ganhar a Defeito Inimigo: (•) Uma vítima enganada</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.manipulation"
+          },
+          "MzZcRjaT": {
+            "path": "skills.technology"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979346,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "KMct9kEYZIIwlM6b",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Médico de beco",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Operando em um escritório sujo e mal iluminado em um beco, equipado com pílulas perturbadoras e instrumentos cirúrgicos que podem ou não ter sido recentemente limpos, o médico de beco é frequentemente o único recurso médico disponível para criminosos e para os pobres. Com algum grau de conhecimento médico, esse indivíduo oferece seus serviços àqueles que estão necessitados - mas não sem o devido pagamento.</p><p>■ Adicionar uma Especialidade: Manha (Drogas) ou Medicina (Cirurgia)</p><p>■ Ganhe um ponto de Animalismo ou Feitiçaria de Sangue (apenas Banu Haqim e Tremere)</p><p>■ Ganhe o Qualidade do Refúgio: (•) Cirurgia</p><p>■ Ganhe um ponto de Recursos</p><p>■ Ganhe a Defeito do Segredo Sombrio: (•) Médico Clandestino</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.wits"
+          },
+          "MzZcRjaT": {
+            "path": "skills.medicine"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979357,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "KcCMuHoYM1gLJlP7",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Homem de Areia",
+      "type": "predatorType",
+      "_id": "Kihkcn3qaxJlE3tT",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você depende de sua furtividade ou Disciplinas para se alimentar de vítimas adormecidas. Se elas nunca acordarem durante a alimentação, não saberão que você existe. Talvez você tenha sido muito antissocial na vida; você não se sente preparado para a intensa vida noturna interpessoal ou para a violência física de caçadores mais extrovertidos.</p><p>■ Adicione uma especialidade: Medicina (Anestesia) ou Furtividade (Arrombamento)</p><p>■ Ganhe um ponto de Auspícios ou Ofuscação</p><p>■ Ganhe um ponto de Recursos</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "vIuRIBCT": {
+            "path": "attributes.dexterity"
+          },
+          "3wmUm1PX": {
+            "path": "skills.stealth"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 600000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979373,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Gato de Beco",
+      "type": "predatorType",
+      "_id": "LMuKaffhHN1iI2AU",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Um alimentador combativo de ataques, você persegue, domina e bebe de quem puder, quando puder. Você pode ou não tentar ameaçar ou Dominação as vítimas para silenciá-las ou disfarçar a alimentação como um assalto. Pense sobre como você chegou a essa abordagem direta para se alimentar e o que faz você se sentir confortável com uma existência de perseguir, atacar, alimentar-se e escapar. Você poderia ter sido um sem-teto, um soldado da SAS, um assassino de cartel ou um caçador de grandes animais.</p><p>■ Adicionar uma especialidade: Intimidação (Assaltos) ou Briga (Agarre)</p><p>■ Ganhe um ponto de Celeridade ou Potência</p><p>■ Perder um ponto de Humanidade</p><p>■ Ganhe três pontos de Contatos criminais</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "Gr6eCyZ0": {
+            "path": "attributes.strength"
+          },
+          "juL9rvjd": {
+            "path": "skills.brawl"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 700000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979386,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Dizimista",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Com a idade e o status muitas vezes vêm os confortos da conveniência. O Coletor de Dízimos detém poder suficiente para que os vampiros ao seu redor paguem tributo na forma de recipientes cuidadosamente selecionados, entregues em intervalos regulares ou a pedido. Enquanto mantiverem sua posição e devolverem os recipientes em condições razoáveis, é trabalho de outra pessoa se preocupar com a Máscara.</p><p>■ Adicionar uma especialidade: Intimidação (Membros) ou Liderança (Membros)</p><p>■ Ganhe um ponto de Dominação ou Presença</p><p>■ Ganhe três pontos de Domínio ou Status, representando um domínio grande o suficiente para compartilhar ou uma posição específica próxima ao topo de sua comunidade</p><p>■ Ganhar um Adversário (••) Nem todos apreciam sua influência</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {}
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979397,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "R1YnHDS6gsZdzh8j",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Bolsista",
+      "type": "predatorType",
+      "_id": "TMdpcf5EJV13bDG4",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você rouba, compra ou de outra forma obtém sangue frio em vez de caçar, dependendo do mercado negro ou de suas habilidades como ladrão ou perseguidor de indenizações. Talvez você ainda trabalhe no turno da noite do hospital. Ventrue pode não escolher esse tipo de Predador.</p><p>■ Adicionar uma especialidade: Ladroagem (Arrombamento de fechaduras) ou Manha (Mercado Negro)</p><p>■ Ganhe um ponto de Feitiçaria de Sangue (apenas Tremere) ou Ofuscação</p><p>■ Ganhe o Qualidade de Alimentação: Garganta de Ferro (•••)</p><p>■ Ganhe a Defeito Inimigo: (••) Ou alguém acredita que você lhe deve algo, ou há outro motivo pelo qual você evita as ruas.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "KwHKqaFH": {
+            "path": "attributes.intelligence"
+          },
+          "EHej4o5k": {
+            "path": "skills.streetwise"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 800000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979411,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Rainha da Cena",
+      "type": "predatorType",
+      "_id": "U3aFkYaQ5jIXmLIX",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você depende da sua familiaridade com uma determinada subcultura e de uma pose bem elaborada, alimentando-se de uma subcultura exclusiva que acredita que você é um deles. Suas vítimas o adoram pelo seu status na cena, e aqueles que compreendem o que você é não acreditam. Você pode pertencer à rua ou à verdadeira alta sociedade, abusando dos fracos com falsas esperanças e promessas de levá-los ao próximo nível. Na vida, você quase certamente pertencia a uma cena semelhante à que você persegue agora.</p><p>■ Adicione uma especialidade: Etiqueta (cena específica), Liderança (cena específica) ou Manha (cena específica)</p><p>■ Ganhe um ponto de Dominação ou Potência</p><p>■ Ganhe a Vantagem da Fama: (•)</p><p>■ Ganhe a Vantagem de Contato: (•)</p><p>■ Ganhe ou o Defeito de Influência: (•) Desaprovado (fora da sua subcultura) ou o Defeito de Alimentação: (•) Exclusão de Presa (uma subcultura diferente da sua)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "A9gs28BI": {
+            "path": "attributes.manipulation"
+          },
+          "S2gDwXcs": {
+            "path": "skills.persuasion"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 900000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979427,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Fazendeiro",
+      "type": "predatorType",
+      "_id": "VdOPCYrSqRjxHHNr",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você se alimenta apenas de animais. Sua Fome constantemente te corrói, mas você não matou um único ser humano até agora (exceto talvez aquela vez), e você pretende manter isso assim. Você poderia ter sido qualquer pessoa na vida, mas sua escolha demonstra alguém obcecado pela moralidade. Talvez você tenha sido ativista, padre, trabalhador humanitário ou vegano na vida, mas a escolha de nunca arriscar uma vida humana é algo que qualquer um poderia fazer e lutar para manter. Ventrue não pode escolher este tipo de Predador. Você não pode escolher este tipo de Predador se sua Potência de Sangue for 3 ou maior.</p><p>■ Adicionar uma especialidade: Empatia com Animais (Animal Específico) ou Sobrevivência (Caça)</p><p>■ Ganhe um ponto de Animalismo ou Metamorfose</p><p>■ Ganhe um ponto de Humanidade</p><p>■ Ganhe o Defeito Alimentar: (••) Vegano</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "7gwSGkGq": {
+            "path": "attributes.composure"
+          },
+          "Kjazb9Qs": {
+            "path": "skills.animalken"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 1000000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979440,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Perseguidor",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Algumas pessoas nunca serão acreditadas, enquanto outras nunca farão falta. Você estuda sua vítima, aprendendo sua rotina e se ela pode desaparecer sem causar alvoroço. Depois, você persegue e persegue sua vítima durante a noite, só atacando quando sua sensibilidade e sua fome atingem seu auge mais delicioso.</p><p>■ Adicionar uma especialidade: Investigação (Perfil) ou Furtividade (Sombreamento)</p><p>■ Ganhe um ponto de Animalismo ou Auspícios</p><p>■ Conquiste o Qualidade: Cão de Caça •</p><p>■ Ganhe um ponto de Contatos entre os frequentadores moralmente flexíveis do seu território de caça: seguranças de boate, observadores de rua sem-teto, vendedores noturnos, traficantes de rua, etc. Alguém que responda quando você perguntar “para onde ela foi?”</p><p>■ Perder um ponto de Humanidade</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.intelligence"
+          },
+          "MzZcRjaT": {
+            "path": "skills.investigation"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979453,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "WEeigOdeX75qA3mF",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Consensualista",
+      "type": "predatorType",
+      "_id": "WRykPxFBJIHET2ij",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Você nunca se alimenta contra a vontade da sua vítima. Você se disfarça como um representante de uma campanha de doação de sangue, como um senhor do sangue fetichista na “comunidade de vampiros reais”, ou realmente dizendo às suas vítimas quem você é e obtendo permissão delas para se alimentar. A Camarilla chama esse último método de violação da Máscara, mas muitos filósofos Anarquistas consideram um risco aceitável. Você poderia ter sido qualquer coisa na vida, mas um trabalhador sexual, um organizador político ou um advogado poderiam todos desconfiar de se alimentar sem consentimento.</p><p>■ Adicionar uma especialidade: Medicina (Flebotomia) ou Persuasão (Vítimas)</p><p>■ Ganhe um ponto de Auspícios ou de Fortitude</p><p>■ Ganhe um ponto de Humanidade</p><p>■ Ganhe a Defeito do Segredo Sombrio: (•) Violador da Máscara</p><p>■ Adquirir a Defeito de Alimentação: (•) Exclusão da Presa (sem consentimento)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "UOO5cLpE": {
+            "path": "attributes.manipulation"
+          },
+          "8IHmk5Wr": {
+            "path": "skills.persuasion"
+          }
+        }
+      },
+      "effects": [],
+      "sort": 1100000,
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979465,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      }
+    },
+    {
+      "folder": null,
+      "name": "Bruxa",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Em noites turbulentas da Segunda Inquisição, alguns vampiros adquiriram o hábito de atrair caçadores para suas presas, matando dois coelhos com uma cajadada só. Eles atraem propositadamente os inquisidores com violações da Máscara e limpam todas as evidências possíveis. Isso frequentemente resulta na morte de suas presas e de qualquer testemunha infeliz.</p><p>■ Adicionar uma Especialidade: Sobrevivência (Rastreando Caçadores) ou Política (Agências de Inteligência)</p><p>■ Ganhe um ponto de Fortitude ou Feitiçaria de Sangue (apenas Tremere ou Banu Haqim)</p><p>■ Perder um ponto de Humanidade</p><p>■ Gaste três pontos entre os antecedentes Refúgio, Máscara e Lacaios</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.wits"
+          },
+          "MzZcRjaT": {
+            "path": "skills.survival"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979477,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "dXm3ITuzojsrUgDt",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Montero",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Desde a Idade Média, os aristocratas espanhóis realizam a montería: uma caça de cervos na qual equipes de batidores conduzem os animais às lanças (e mais tarde às armas de fogo) do montero, o caçador. Você mantém essa tradição, usando empregados para conduzir suas vítimas até você para o abate. Sua montería moderna pode assumir a forma de um golpe longo, um flash mob, uma panela de protesto, uma interminável burocracia ou uma aparente perseguição sem sentido de gangues.</p><p>■ Adicionar uma especialidade: Liderança (Matilha de Caça) ou Furtividade (Vigia)</p><p>■ Ganhe um ponto de Dominação ou Ofuscação</p><p>■ Ganhe dois pontos de Lacaios</p><p>■ Perder um ponto de Humanidade</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.intelligence"
+          },
+          "MzZcRjaT": {
+            "path": "skills.stealth"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979491,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "eJkTvW1ifL0Sp5qS",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Catador",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>O mundo pode ser um lugar bagunçado, com ou sem vampiros. Como tal, alguns sugadores de sangue não precisam fazer muito para saciar sua fome; eles observam silenciosamente e depois limpam a bagunça de outras pessoas. Carroceiros frequentemente estabelecem seus refúgios próximos a regiões particularmente violentas, como zonas de guerra, cidades controladas por cartéis, fronteiras internacionais e territórios disputados por seitas.</p><p>■ Adicionar uma Especialidade: Manha (Sobrevivência Urbana) ou Sobrevivência (Abrigos)</p><p>■ Ganhe um ponto de Ofuscação ou Oblívio</p><p>■ Ganhar o Qualidade de Alimentação: (•••) Garganta de Ferro</p><p>■ Ganhe a Defeito de Rebanho: (••) Predador Evidente (sua natureza fria faz você agir de maneira profundamente perturbadora ao caçar)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.composure"
+          },
+          "MzZcRjaT": {
+            "path": "skills.survival"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979506,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "edsHk7L9pc6v2MGb",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Rufião",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Como proprietários ou operadores de bordéis, clubes noturnos, agências de acompanhantes e casas de espetáculo, o Rufião mantém muitas presas à disposição para seu próprio sustento ou para negociar favores com outros vampiros. Embora Membros mais conservadores desaprovem esse método, é uma forma altamente eficaz e discreta de se alimentar sem riscos desnecessários à Máscara.</p><p>■ <strong>Especialidade:</strong> Liderança (Comando) ou Persuasão (Lábia)</p><p>■ <strong>Disciplinas:</strong> Ganhe um ponto de Potência ou Presença</p><p>■ <strong>Vantagens:</strong> Ganhe três pontos em Rebanho</p><p>■ <strong>Defeito:</strong> Defeito Fama: (••) Infâmia</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.charisma"
+          },
+          "MzZcRjaT": {
+            "path": "skills.persuasion"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979520,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "jYCJeUDzoGQ41B0g",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Extorsionista",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>O extorsionista gosta de forçar suas vítimas a sangrar para ele. Ostensivamente, o extorsionista adquire sangue em troca de serviços como segurança ou vigilância, mas tantas vezes quanto a necessidade de proteção é real, ela também é frequentemente uma ficção criada para fazer o acordo parecer aceitável.</p><p>■ Adicionar uma especialidade: Intimidação (Coerção) ou Furtividade (Segurança)</p><p>■ Ganhe um ponto de Dominação ou Potência</p><p>■ Passe três pontos entre os planos de fundo de Contatos e Recursos</p><p>■ Ganhar a Defeito Inimigo: (••) A polícia ou uma vítima que escapou da sua extorsão e agora quer vingança</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.manipulation"
+          },
+          "MzZcRjaT": {
+            "path": "skills.intimidation"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979533,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "kKnBRutcEUYkOdKG",
+      "sort": 200000
+    },
+    {
+      "folder": null,
+      "name": "Show de Aberrações",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Alguns vampiros mostram pouca ou nenhuma preocupação com o bem-estar de suas presas. Ao contrário, eles gostam de ouvir seus gritos e ver o medo em seus olhos enquanto se empanturram com seu sangue. Tal é a natureza de Freakshow: um Cainita inescrupuloso que se orgulha de sua condição de morto-vivo.</p><p>■ Adicionar uma Especialidade: Briga (Mortais Desarmados) ou Intimidação (Ameaças)</p><p>■ Ganhe um ponto de Oblívio ou Metamorfose</p><p>■ Perder um ponto de Humanidade</p><p>■ Ganhe o Qualidade de Alimentação: (•) Cão de Caça</p><p>■ Distribua cinco pontos entre os Antecedentes Refúgio, Alcateia e Mawla</p><p>■ Ganhe a Defeito do Segredo Sombrio: (••) Violador da Máscara</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.strength"
+          },
+          "MzZcRjaT": {
+            "path": "skills.brawl"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979549,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "sUZvqqjvntP5XdgH",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Impostor",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Frequentemente se passando por um turista perdido, uma vítima de roubo ou por um mendigo nas ruas, o Impostor é um vampiro que se aproveita da boa vontade dos outros para separá-los da multidão. Às vezes, o Impostor também pode ser aquele que oferece ajuda às mesmas pessoas que finge ser.</p><p>■ Adicionar uma Especialidade: Percepção (Prestatividade) ou Subterfúgio (Inocência)</p><p>■ Ganhe um ponto de Presença ou Celeridade</p><p>■ Perder um ponto de Humanidade</p><p>■ Ganhe o Qualidade em Linguística: (•) Um idioma à escolha</p><p>■ Ganhe um ponto em Aliados ou Contatos</p><p>■ Ganhe um ponto de Máscara</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.manipulation"
+          },
+          "MzZcRjaT": {
+            "path": "skills.subterfuge"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979560,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "sd5Jsn5sAAhWhgO2",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Vigilante",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Para lidar com a culpa de se tornar um parasita, alguns indivíduos caçam criminosos, golpistas e quaisquer outros elementos perturbadores da sociedade. Este método de se alimentar é particularmente favorecido por aqueles com um senso ávido de justiça, mas quão justo é usar dons sobrenaturais para sustentar-se contra oponentes muito mais fracos - embora não totalmente inocentes?</p><p>■ Adicionar uma Especialidade: Armas Brancas (Golpe Desarmante) ou Intuição (Perigo Imediato)</p><p>■ Ganhe um ponto de Auspícios ou Celeridade</p><p>■ Ganhe o Qualidade de Alimentação: (•) Cão de Caça</p><p>■ Ganhar o Qualidade Refúgio: (•) Postigo ou Sistema de Segurança</p><p>■ Adquirir a Defeito de Alimentação: (•) Exclusão de Presas (inocentes)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.dexterity"
+          },
+          "MzZcRjaT": {
+            "path": "skills.melee"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979569,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "v787v95mHuDFqIBA",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Ceifador",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Também conhecido como rato da peste, você se alimenta apenas daqueles que estão prestes a morrer. Você procura instalações de cuidados paliativos, casas de repouso e abrigos. Isso significa que você está constantemente em movimento procurando novas vítimas próximas ao fim de suas vidas e muitas vezes tem dificuldade em se estabelecer. Você também pode desenvolver gosto por doenças específicas e ter facilidade em identificá-las pelo sabor.</p><p>■ Adicione uma especialidade: Consciência (Morte) ou Furtividade (Falsificação)</p><p>■ Ganhe um ponto de Auspícios ou Oblívio</p><p>■ Ganhe um ponto de Aliados ou de Influência no histórico médico</p><p>■ Ganhe um ponto de Humanidade</p><p>■ Obter a Defeito de Alimentação: (•) Exclusão da Presa: Mortais Saudáveis</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.intelligence"
+          },
+          "MzZcRjaT": {
+            "path": "skills.awareness"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979581,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "vI4r3ADuXjVobc92",
+      "sort": 0
+    },
+    {
+      "folder": null,
+      "name": "Ladrão de Sepulturas",
+      "type": "predatorType",
+      "img": "systems/wod5e/assets/icons/items/discipline.png",
+      "system": {
+        "description": "<p>Ladrões de túmulos frequentemente se alimentam de cadáveres frescos, mas apesar do nome, eles preferem se alimentar de enlutados em cemitérios e de visitantes e pacientes tristes e assustados em hospitais. A Ressonância Melancólica no sangue de uma vítima é mais atraente do que qualquer outro humor. Esse tipo de predador frequentemente exige que o vampiro tenha um refúgio em ou conexões com uma igreja, hospital ou necrotério.</p><p>■ Adicione uma especialidade: Ocultismo (Rituais Funestos) ou Medicina (Cadáveres)</p><p>■ Ganhe um ponto de Fortitude ou Oblívio</p><p>■ Ganhe o Qualidade de Alimentação: (•••) Garganta de Ferro</p><p>■ Ganhe a Vantagem do Refúgio: (•)</p><p>■ Ganhe a Defeito de Rebanho: (••) Predador Evidente (sua natureza fria faz você agir de maneira profundamente perturbadora ao caçar)</p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "dicepool": {
+          "3zWvCN8V": {
+            "path": "attributes.resolve"
+          },
+          "MzZcRjaT": {
+            "path": "skills.medicine"
+          }
+        }
+      },
+      "effects": [],
+      "ownership": {
+        "default": 0,
+        "zzaXLX6rQo9UZdTe": 3,
+        "4cM8iyk32CYPBr00": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.363",
+        "systemId": "vtm5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1761154394663,
+        "modifiedTime": 1780803979591,
+        "lastModifiedBy": "4cM8iyk32CYPBr00"
+      },
+      "_id": "znzxJzYtUZfDc0oj",
+      "sort": 0
+    }
+  ]
+}

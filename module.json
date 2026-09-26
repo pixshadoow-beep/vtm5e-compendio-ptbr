@@ -1,0 +1,117 @@
+{
+  "id": "vtm5e-compendio-ptbr",
+  "title": "Vampiro: A Máscara 5ª Edição — Compêndio Completo PT-BR",
+  "description": "<p><strong>Compêndio Oficial Completo em Português (PT-BR)</strong> para <em>Vampiro: A Máscara 5ª Edição</em> (sistema <code>wod5e</code>), 100% independente (sem necessidade de Babele).</p><ul><li><strong>🩸 Clãs V5 (PT-BR):</strong> Todos os 16 Clãs com Perdições e Variantes do Livro Básico e Guia do Jogador.</li><li><strong>🦇 Disciplinas, Rituais &amp; Alquimia (PT-BR):</strong> Todos os 367 poderes, amálgamas, rituais de Feitiçaria de Sangue, Alquimia de Sangue-Ralo e Cerimônias de Oblívio.</li><li><strong>🐺 Tipos de Predador (PT-BR):</strong> Todos os 28 tipos de predador oficiais.</li><li><strong>⚖️ Vantagens, Méritos &amp; Defeitos (PT-BR):</strong> Todos os 230 antecedentes, qualidades e defeitos.</li><li><strong>📜 Loresheets (PT-BR):</strong> 575 níveis em 181 Folhas de Conhecimento oficiais.</li><li><strong>🧪 Ressonâncias (PT-BR):</strong> As 6 ressonâncias do sangue.</li></ul>",
+  "version": "2.1.0",
+  "url": "https://github.com/pixshadoow-beep/vtm5e-compendio-ptbr",
+  "manifest": "https://raw.githubusercontent.com/pixshadoow-beep/vtm5e-compendio-ptbr/main/module.json",
+  "download": "https://github.com/pixshadoow-beep/vtm5e-compendio-ptbr/releases/latest/download/vtm5e-compendio-ptbr.zip",
+  "readme": "https://raw.githubusercontent.com/pixshadoow-beep/vtm5e-compendio-ptbr/main/README.md",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "14.365"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wod5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0",
+          "verified": "5.3.26"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/compendium-loader.js"
+  ],
+  "packs": [
+    {
+      "name": "clas",
+      "label": "🩸 Clãs V5 (PT-BR)",
+      "path": "packs/clas",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "disciplinas",
+      "label": "🦇 Disciplinas, Rituais & Alquimia (PT-BR)",
+      "path": "packs/disciplinas",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tipos-de-predador",
+      "label": "🐺 Tipos de Predador (PT-BR)",
+      "path": "packs/tipos-de-predador",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vantagens-e-defeitos",
+      "label": "⚖️ Vantagens, Méritos & Defeitos (PT-BR)",
+      "path": "packs/vantagens-e-defeitos",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "loresheets",
+      "label": "📜 Loresheets / Folhas de Conhecimento (PT-BR)",
+      "path": "packs/loresheets",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ressonancias",
+      "label": "🧪 Ressonâncias de Sangue (PT-BR)",
+      "path": "packs/ressonancias",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "🦇 Vampiro: A Máscara V5 (PT-BR Oficial)",
+      "sorting": "m",
+      "color": "#7a0606",
+      "packs": [
+        "clas",
+        "disciplinas",
+        "tipos-de-predador",
+        "vantagens-e-defeitos",
+        "loresheets",
+        "ressonancias"
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "name": "Shadoow"
+    }
+  ]
+}
